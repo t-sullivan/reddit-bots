@@ -1,0 +1,1 @@
+Hermes is a simple Reddit bot that keeps track of posts on a specified subreddit and messages you when it finds posts that match your keywords.

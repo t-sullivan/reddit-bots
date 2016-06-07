@@ -1,0 +1,1 @@
+Scandal is a bot created by request for the subreddit /r/scandalband. It scrapes a blog for posts and reposts them to the subreddit.
