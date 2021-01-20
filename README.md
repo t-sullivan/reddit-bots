@@ -1,1 +1,1 @@
-A collection of simple-task reddit bots created by myself at the request of others or for my own personal use.
+A collection of reddit bots
